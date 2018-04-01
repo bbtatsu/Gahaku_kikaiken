@@ -3,7 +3,7 @@ import sys
 import math
 
 height = 100
-l_3 = 200
+l_2 = 200
 l_3 = 200
 r_offset = 27.5
 z_offset = 102.5
